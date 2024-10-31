@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="latest_rates">Giá quy đổi mới nhất</string>
+    <string name="favorite_rates">Tiền tệ yêu thích</string>
+    <string name="all_currencies">Tất cả tiền tệ</string>
+    <string name="currency_convert">Quy đổi tiền tệ</string>
+    <string name="add_currency">Thêm tiền tệ</string>
+    <string name="exchange_from">Quy đổi từ</string>
+    <string name="exchange_to">Quy đổi cho</string>
+    <string name="internet_unavailable_instruction">Không Có Kết Nối Internet\nVui Lòng Kiểm Tra Kết Nối Internet Của Bạn</string>
+    <string name="can_not_get_data_instruct">Đã Có Lỗi Xảy Ra\nVui Lòng Thử Lại</string>
+    <string name="reload">Tải lại</string>
+</resources>
